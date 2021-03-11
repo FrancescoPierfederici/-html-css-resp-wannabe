@@ -132,16 +132,23 @@
       
       
       }
+     
+
+    
       #lezioni .row{
-          background-color: rgba(255, 182, 193, 0.274);
+         background-color: rgba(255, 182, 193, 0.274);
       }
       #steps .row>.left,
-      #steps .row>.central,
-      #steps .row>.right {
+      #steps .row>.central{
         float: left;
-        width: 100%;
+        width: 50%;
         
       }
+    
+      #steps .row>.right {
+        float: none;
+        width: 100%;
+    }
       #why .row{
           background-color: rgba(255, 182, 193, 0.274);
       }
@@ -171,4 +178,4 @@
           margin: 0;
       }
       
-  }
+    }
