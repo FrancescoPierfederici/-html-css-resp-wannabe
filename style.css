@@ -125,7 +125,7 @@
     }
     
   }
-  @media screen and (min-width:768px) and (max-width:991px) {
+  @media screen and (min-width:421px) and (max-width:991px) {
     #lezioni .row>.left,
     #lezioni .row>.right {
       width: 100%;
